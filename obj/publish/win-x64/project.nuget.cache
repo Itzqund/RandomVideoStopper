@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "WgMsjDYqzoU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\qund\\source\\repos\\RandomVideoStopper\\RandomVideoStopper\\RandomVideoStopper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\qund\\.nuget\\packages\\microsoft.net.illink.tasks\\10.0.2\\microsoft.net.illink.tasks.10.0.2.nupkg.sha512",
+    "C:\\Users\\qund\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\10.0.2\\microsoft.netcore.app.runtime.win-x64.10.0.2.nupkg.sha512",
+    "C:\\Users\\qund\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\10.0.2\\microsoft.windowsdesktop.app.runtime.win-x64.10.0.2.nupkg.sha512",
+    "C:\\Users\\qund\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\10.0.2\\microsoft.aspnetcore.app.runtime.win-x64.10.0.2.nupkg.sha512",
+    "C:\\Users\\qund\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\10.0.2\\microsoft.netcore.app.crossgen2.win-x64.10.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

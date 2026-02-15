@@ -1,0 +1,2 @@
+C:\Users\qund\source\repos\RandomVideoStopper\RandomVideoStopper\bin\Release\net8.0-windows\RandomVideoStopper.pdb
+C:\Users\qund\source\repos\RandomVideoStopper\RandomVideoStopper\bin\Release\net8.0-windows\RandomVideoStopper.exe

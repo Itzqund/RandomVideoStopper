@@ -1,0 +1,17 @@
+C:\Users\qund\source\repos\RandomVideoStopper\RandomVideoStopper\bin\Debug\net8.0-windows\RandomVideoStopper.exe
+C:\Users\qund\source\repos\RandomVideoStopper\RandomVideoStopper\bin\Debug\net8.0-windows\RandomVideoStopper.deps.json
+C:\Users\qund\source\repos\RandomVideoStopper\RandomVideoStopper\bin\Debug\net8.0-windows\RandomVideoStopper.runtimeconfig.json
+C:\Users\qund\source\repos\RandomVideoStopper\RandomVideoStopper\bin\Debug\net8.0-windows\RandomVideoStopper.dll
+C:\Users\qund\source\repos\RandomVideoStopper\RandomVideoStopper\bin\Debug\net8.0-windows\RandomVideoStopper.pdb
+C:\Users\qund\source\repos\RandomVideoStopper\RandomVideoStopper\obj\Debug\net8.0-windows\RandomVideoStopper.MainForm.resources
+C:\Users\qund\source\repos\RandomVideoStopper\RandomVideoStopper\obj\Debug\net8.0-windows\RandomVideoStopper.Properties.Resources.resources
+C:\Users\qund\source\repos\RandomVideoStopper\RandomVideoStopper\obj\Debug\net8.0-windows\RandomVideoStopper.csproj.GenerateResource.cache
+C:\Users\qund\source\repos\RandomVideoStopper\RandomVideoStopper\obj\Debug\net8.0-windows\RandomVideoStopper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qund\source\repos\RandomVideoStopper\RandomVideoStopper\obj\Debug\net8.0-windows\RandomVideoStopper.AssemblyInfoInputs.cache
+C:\Users\qund\source\repos\RandomVideoStopper\RandomVideoStopper\obj\Debug\net8.0-windows\RandomVideoStopper.AssemblyInfo.cs
+C:\Users\qund\source\repos\RandomVideoStopper\RandomVideoStopper\obj\Debug\net8.0-windows\RandomVideoStopper.csproj.CoreCompileInputs.cache
+C:\Users\qund\source\repos\RandomVideoStopper\RandomVideoStopper\obj\Debug\net8.0-windows\RandomVideoStopper.dll
+C:\Users\qund\source\repos\RandomVideoStopper\RandomVideoStopper\obj\Debug\net8.0-windows\refint\RandomVideoStopper.dll
+C:\Users\qund\source\repos\RandomVideoStopper\RandomVideoStopper\obj\Debug\net8.0-windows\RandomVideoStopper.pdb
+C:\Users\qund\source\repos\RandomVideoStopper\RandomVideoStopper\obj\Debug\net8.0-windows\RandomVideoStopper.genruntimeconfig.cache
+C:\Users\qund\source\repos\RandomVideoStopper\RandomVideoStopper\obj\Debug\net8.0-windows\ref\RandomVideoStopper.dll

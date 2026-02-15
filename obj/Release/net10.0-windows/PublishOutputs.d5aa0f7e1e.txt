@@ -1,0 +1,5 @@
+C:\Users\qund\source\repos\RandomVideoStopper\RandomVideoStopper\Release\RandomVideoStopper.exe
+C:\Users\qund\source\repos\RandomVideoStopper\RandomVideoStopper\Release\RandomVideoStopper.dll
+C:\Users\qund\source\repos\RandomVideoStopper\RandomVideoStopper\Release\RandomVideoStopper.deps.json
+C:\Users\qund\source\repos\RandomVideoStopper\RandomVideoStopper\Release\RandomVideoStopper.runtimeconfig.json
+C:\Users\qund\source\repos\RandomVideoStopper\RandomVideoStopper\Release\RandomVideoStopper.pdb
